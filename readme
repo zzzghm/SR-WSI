@@ -1,0 +1,23 @@
+All the checkpoints are saved in the Box folder. 
+https://tulane.box.com/s/z8cl24r73st7z3uun4ahng822z8glx6l
+
+
+1. Effects of pixel misregistration on PixGAN model performance:
+checkpoints_gan_pixel5
+checkpoints_gan_pixel10
+checkpoints_gan_pixel15
+checkpoints_gan_pixel20
+checkpoints_gan_pixel30
+
+2. Generalization to multiple tissue types on SR-CycleGAN:
+checkpoints_SR-Cycgan_k
+checkpoints_SR-Cycgan_p
+checkpoints_SR-Cycgan_b
+checkpoints_SR-Cycgan_k&p
+checkpoints_SR-Cycgan_k&p&b
+checkpoints_SR-Cycgan_p&b
+
+3. Comparison of Gaussian downsampled vs real LR patches for model training
+checkpoints_SR-Cycgan_kdown
+
+
